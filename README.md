@@ -1,11 +1,12 @@
 # Discord_bot_slash_setup_basic
 Discordbot_slashcommand for biginer
+---
 For beginners, I simply put together Python code for Discord bot using slash command.
-
+---
 ```sh
 git clone https://github.com/SKR6582/Discord_bot_slash_setup_basic
 ```
-
+---
 
 1. win + r > cmd 
 ```sh
