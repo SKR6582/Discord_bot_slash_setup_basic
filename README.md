@@ -1,0 +1,2 @@
+# Discord_bot_slash_setup_basic
+Discordbot_slashcommand for biginer
