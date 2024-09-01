@@ -1,6 +1,2 @@
--U git+https://github.com/Pycord-Development/pycord
-time
-os
-discord
-re
-asyncio
+py-cord @ git+https://github.com/Pycord-Development/pycord@eb3ac6b7c53d8ccb07d3d0bd9d4c425865646e2d
+discord==2.3.2
