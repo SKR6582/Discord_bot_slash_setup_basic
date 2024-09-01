@@ -51,3 +51,15 @@ async def B명령어(ctx : discord.ApplicationContext,content : str):
     
 
 """
+
+
+# 간단한 인사 명령어
+@bot.slash_command(name = "greeting" , discription = "Hello to Bot!")
+async def greeting(ctx : discord.ApplicationContext) :
+    ctx.respond(f"{ctx.user}님 안녕하세요? " )
+    
+
+
+bot.run(os.environ.get("YOUR_API_KEY"))
+# 또는
+#bot.run("토큰")
