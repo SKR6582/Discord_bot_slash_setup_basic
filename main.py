@@ -1,7 +1,6 @@
 import discord
 import time
 import os
-import re
 from discord.ext import commands
 import discord.voice_client
 
